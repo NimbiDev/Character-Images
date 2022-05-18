@@ -13,11 +13,11 @@ All images are stored in folders named after the character. The repo contaisn bo
 
 If you wish to add images, feel free to do so. We will gladly accept new images. All we ask is that you respect the following rules for contributing:
 
- - Images must be named in a minimum of two digit number sequence.
+ - Images must be named in a minimum of two digit number sequence.<br />
  *[eg: `01`, `02`, `03`, `04`]*
  - No two images per folder shall carry the same number.
- - Image formats must be either `.jpg`, `.png`, or `.gif`.
+ - Image formats must be either `.jpg`, `.png`, or `.gif`.<br />
  *[No other formats will be accepted]*
  - NSFW images must be placed into the NSFW folder and SFW images in the SFW folder.
- - All images must be placed into a subfolder named after the character.
+ - All images must be placed into a subfolder named after the character.<br />
  *[eg: `SFW\Sakura Haruno`, `SFW\Lily Shiraishi`, `SFW\Megumin`]*
