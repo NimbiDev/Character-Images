@@ -7,7 +7,7 @@ This is a collection of character images found from all over the web and brought
 
 All images in this repo are shared publicly for use in Discord bots. They can be used elsewhere but the main purpose of this repo is the provide images for use in Waifu Roulettes and other such mingames found in Discord Bots.
 
-All images are stored in folders named after the character. The repo contaisn both SFW and NSFW images.
+All images are stored in folders named after the character. The repo contains both SFW and NSFW images.
 
 ## Contributing
 
