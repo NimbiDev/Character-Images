@@ -17,4 +17,4 @@ If you wish to add images, feel free to do so. We will gladly accept new images.
  - No two images per folder shall carry the same number.
  - Image formats must be either `.jpg`, `.png`, or `.gif`. *[No other formats will be accepted]*
  - NSFW images must be placed into the NSFW folder and SFW images in the SFW folder.
- - All images must be placed into a subfolder named after the character.
+ - All images must be placed into a subfolder named after the character. *[eg: Sakura Haruno, Lily Shiraishi, Megumin]*
